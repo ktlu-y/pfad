@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+TTS
+streamlit-audiorec
+ollama
